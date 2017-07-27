@@ -6,3 +6,5 @@
 
 这时可以对输入框的输入进行限制，不让用户输入不该输入的字符。本demo使用InputFilter对输入框进行限制，以达到想要的效果。
 
+![测试图片](http://on2eediez.bkt.clouddn.com/test_editlimit.gif)
+
